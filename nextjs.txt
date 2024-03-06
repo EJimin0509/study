@@ -1,0 +1,5 @@
+프레임워크
+npx create-next-app
+
+
+npm install next@latest react@latest react-dom@latest
